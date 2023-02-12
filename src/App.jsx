@@ -1,4 +1,3 @@
-import reactLogo from "./assets/react.svg";
 import Fondo from "./components/Fondo";
 import Calculator from "./components/Calculator";
 
